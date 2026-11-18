@@ -1,0 +1,8 @@
+proxies:
+  - name: proxy-a
+    port: 8080
+  - name: proxy-b
+    port: 8081
+
+admin:
+  port: 8888
